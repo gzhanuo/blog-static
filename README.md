@@ -1,3 +1,3 @@
-### 关于仓库
+### About
 
-这里存放个人网站中使用的图片等静态资源
+Static resources of personal website.
